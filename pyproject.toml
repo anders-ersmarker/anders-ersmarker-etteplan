@@ -1,0 +1,8 @@
+[project]
+name = "anders-ersmarker-etteplan"
+version = "0.0.0"
+description = "Work sample for job application"
+requires-python = ">=3.3"
+dependencies = []
+[project.scripts]
+anders-ersmarker-etteplan = "anders_ersmarker_etteplan.cli:main"
