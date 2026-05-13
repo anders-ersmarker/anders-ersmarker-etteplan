@@ -1,2 +1,3 @@
-/.venv/
-/src/anders_ersmarker_etteplan.egg-info/
+/.venv/*
+/src/anders_ersmarker_etteplan.egg-info/*
+/src/anders_ersmarker_etteplan/__pycache__/*
