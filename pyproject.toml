@@ -5,4 +5,6 @@ description = "Work sample for job application"
 requires-python = ">=3.11"
 dependencies = []
 [project.scripts]
-anders-ersmarker-etteplan = "anders_ersmarker_etteplan.cli:main"
+export_translation = "anders_ersmarker_etteplan.cli:main"
+[tool.setuptools.package-data]
+anders_ersmarker_etteplan = ['data/*']
