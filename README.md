@@ -8,7 +8,7 @@ The project extracts a translation string from an xml file.
 
 Install the program in a virtual environment:
 ```
-pipx install anders-ersmarker-etteplan
+pipx install .
 ```
 
 Run the installed program:
