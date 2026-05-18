@@ -18,8 +18,8 @@ export_translation [id] [xml_file]
 
 The two parameters are optional:
 ```
-id          ID of the translation to find
-xml_file    Path to the XML file
+id          ID of the translation to find (default: `42016`)
+xml_file    Path to the XML file (default: bundled file at `./data/gentext.xml`)
 ```
 
 The output file is saved to the current directory.
